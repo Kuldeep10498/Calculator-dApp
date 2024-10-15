@@ -14,3 +14,8 @@ Move: A safe and secure programming language for smart contracts.
 Aptos: A high-performance blockchain for deploying DApps.
 React: For building the user interface (if applicable).
 TypeScript: For type safety and better development experience.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Aptos for providing a robust blockchain framework.
