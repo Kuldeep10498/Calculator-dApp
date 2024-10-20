@@ -17,5 +17,20 @@ TypeScript: For type safety and better development experience.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Deploy the Smart Contract
+To deploy the smart contract:
+
+Install Aptos CLI.
+
+Update the Move.toml file with your wallet address:
+
+aptos init
+Add your Account addr here for Deployment
+calculator = "0x558d8ff240a01dbfdbc86b24c46743bbbebcce9319873908355cda2d206b208f"
+Compile and publish the contract:
+
+aptos move compile
+aptos move publish
+
 Acknowledgments
 Aptos for providing a robust blockchain framework.
